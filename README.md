@@ -1,4 +1,3 @@
 # PSPI
 
-Ćwiczenia dotyczące GITHub. :)
-
+Ćwiczenia dotyczące pisania w Git Hub.
